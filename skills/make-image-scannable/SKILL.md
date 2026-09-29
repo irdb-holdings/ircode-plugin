@@ -8,7 +8,7 @@ description: Register an image or video with the IRCODE connector this plugin ad
 Registering changes nothing in the picture: there is no QR code or overlay, and
 the image itself becomes the code.
 
-1. Ask in one turn what to call it and whether a scan should lead anywhere.
+1. Ask in one turn what to call it and whether it should link anywhere.
    Never take a title from what you can see in the picture, or invent a link.
 2. Call the IRCODE connector's `ircode_register_image` with the image, by
    `image_url` or by `image_file` where your app can pass the file, plus the
