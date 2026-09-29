@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ircode": {
+      "type": "http",
+      "url": "https://api.ircode.app/mcp"
+    }
+  }
+}

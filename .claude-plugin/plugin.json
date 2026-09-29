@@ -1,0 +1,18 @@
+{
+  "name": "ircode",
+  "displayName": "IRCODE",
+  "version": "1.0.0",
+  "description": "Identify exact images and find out more about them, or make your own image scannable and link it to your site.",
+  "author": {
+    "name": "IRCODE",
+    "url": "https://ircode.com"
+  },
+  "homepage": "https://ircode.com",
+  "repository": "https://github.com/irdb-holdings/ircode-plugin",
+  "license": "MIT",
+  "keywords": [
+    "image recognition",
+    "identify images",
+    "scannable images"
+  ]
+}
