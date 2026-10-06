@@ -9,6 +9,8 @@
   },
   "homepage": "https://ircode.com",
   "privacyPolicyUrl": "https://ircode.com/privacy",
+  "documentationUrl": "https://api.ircode.app/mcp",
+  "supportUrl": "https://api.ircode.app/mcp#help",
   "repository": "https://github.com/irdb-holdings/ircode-plugin",
   "license": "MIT",
   "keywords": [
