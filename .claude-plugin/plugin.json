@@ -8,11 +8,13 @@
     "url": "https://ircode.com"
   },
   "homepage": "https://ircode.com",
+  "privacyPolicyUrl": "https://ircode.com/privacy",
   "repository": "https://github.com/irdb-holdings/ircode-plugin",
   "license": "MIT",
   "keywords": [
     "image recognition",
     "identify images",
     "scannable images"
-  ]
+  ],
+  "icon": ".claude-plugin/icon.png"
 }
