@@ -31,8 +31,8 @@ The plugin runs nothing on your computer.
 
 Pictures you ask it to identify or register go to IRCODE, along with what you
 give a registration, such as its title and link. A lookup sends the IRCODE link
-or ID you gave it. A match is recorded in that image's scan history, and its
-owner may be notified. Registrations are public; made without signing in, they
+or ID you gave it. A match is recorded in that image's scan history.
+Registrations are public; made without signing in, they
 delete themselves after 24 hours. Signing in, needed only to keep a registration
 or register a video, happens on ircode.app and gives IRCODE permission to act on
 your IRCODE account, and nothing else about you. The
